@@ -1,0 +1,2 @@
+### Prompt
+Para compilar y ejecutar el programa prompt se deberá de abrir la terminal en la carpeta donde se encuentre los archivos necesarios previamente descargador por el usuario, al ejecutar el comando "make" se compilará automáticamente el programa, y quedara listo para su ejecución, para ejecutarlo se deberá de escribir en la consola, el siguiente comando: "./prompt", dando inicio al programa que da solución al problema Unix shell.
