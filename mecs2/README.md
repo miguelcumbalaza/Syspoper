@@ -1,0 +1,3 @@
+# Segunda entrega Miniecs
+
+Esta segunda entrega sigue constando de dos archivos, un .c y un .py, el .c representa el servidor que recibira las peticiones para administrar contenedores enviadas por el cliente en python, solo que ahora las peticiones pueden ejecutarse de manera concurrente siendo enviadas por multiples hilos de python y controladas por sincronizacion en el server. Estas peticiones se deben manejar internamente en el codigo de python, escribiendo en la linea que se envia el hilo que comando se va a enviar. Los comandos aceptados son create, stop, delete o list, en el caso de create debe ir acompañado del nombre y el nombre de la imagen.
